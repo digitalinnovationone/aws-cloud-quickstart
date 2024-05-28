@@ -19,20 +19,36 @@ A Amazon Web Services (AWS) é a plataforma de nuvem mais adotada e mais abrange
     - [Passo 1: Acessando](#passo-1-acessando)
     - [Passo 2: Dados Cadastrais](#passo-2-dados-cadastrais)
     - [Passo 3: Validando](#passo-3-validando)
-    - [Passo 3: MFA (Multi Factor Access)](#passo-3-mfa-multi-factor-access)
+    - [Passo 4: MFA (Multi Factor Access)](#passo-4-mfa-multi-factor-access)
+    - [Passo 5: MFA (Multi Factor Access)](#passo-5-mfa-multi-factor-access)
   - [Links interessantes](#links-interessantes)
 
 ## Como criar uma conta na AWS ?
 
-🌐 Siga o passo a passo abaixo após acessar o [AWS amazon](https://aws.amazon.com/pt/)
+[<img src="./assets/imgs/preview.png" align="left" width="200" />](https://www.youtube.com/watch?v=7fj3FNMcdlI)
+&nbsp;&nbsp;
+**Veja em vídeo se preferir**
+<br />
+&nbsp;&nbsp; **[▶️ Como criar uma conta AWS Passo a Passo Em Vídeo](https://www.youtube.com/watch?v=7fj3FNMcdlI)**
+<br /> &nbsp;&nbsp;&nbsp;🕗 12 Min
+<img align="center" width="100%" height="0" />
+
+🌐 Ou siga o passo a passo em texto abaixo após acessar o [AWS amazon](https://aws.amazon.com/pt/)
 
 ### Passo 1: Acessando
+
+- Após acessar o site oficial da [AWS amazon](https://aws.amazon.com/pt/), clique no botão no canto superior direito escrito 'Crie uma Conta na AWS'
+- Você será direcionado
+
+![Passo 1](./assets/imgs/1%20-%20create.png)
 
 ### Passo 2: Dados Cadastrais
 
 ### Passo 3: Validando
 
-### Passo 3: MFA (Multi Factor Access)
+### Passo 4: MFA (Multi Factor Access)
+
+### Passo 5: MFA (Multi Factor Access)
 
 ## Links interessantes
 
