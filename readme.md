@@ -16,11 +16,12 @@ A Amazon Web Services (AWS) é a plataforma de nuvem mais adotada e mais abrange
   - [Descrição](#descrição)
   - [Sumário](#sumário)
   - [Como criar uma conta na AWS ?](#como-criar-uma-conta-na-aws-)
-    - [Passo 1: Acessando](#passo-1-acessando)
-    - [Passo 2: Dados Cadastrais](#passo-2-dados-cadastrais)
-    - [Passo 3: Validando](#passo-3-validando)
-    - [Passo 4: MFA (Multi Factor Access)](#passo-4-mfa-multi-factor-access)
-    - [Passo 5: MFA (Multi Factor Access)](#passo-5-mfa-multi-factor-access)
+    - [Validando Seu Email](#validando-seu-email)
+    - [Passo 1: Defina a sua Senha](#passo-1-defina-a-sua-senha)
+    - [Passo 2: Informação de contato](#passo-2-informação-de-contato)
+    - [Passo 3: Informações de Faturamento](#passo-3-informações-de-faturamento)
+    - [Passo 4: Confirme sua identidade](#passo-4-confirme-sua-identidade)
+    - [Passo 5: Selecione um pacote de suporte](#passo-5-selecione-um-pacote-de-suporte)
   - [Links interessantes](#links-interessantes)
 
 ## Como criar uma conta na AWS ?
@@ -35,20 +36,47 @@ A Amazon Web Services (AWS) é a plataforma de nuvem mais adotada e mais abrange
 
 🌐 Ou siga o passo a passo em texto abaixo após acessar o [AWS amazon](https://aws.amazon.com/pt/)
 
-### Passo 1: Acessando
+Após acessar o site oficial da [AWS amazon](https://aws.amazon.com/pt/), clique no botão no canto superior direito escrito 'Crie uma Conta na AWS'
 
-- Após acessar o site oficial da [AWS amazon](https://aws.amazon.com/pt/), clique no botão no canto superior direito escrito 'Crie uma Conta na AWS'
-- Você será direcionado
+- ![Passo 1](./assets/imgs/1%20-%20create.png)
 
-![Passo 1](./assets/imgs/1%20-%20create.png)
+### Validando Seu Email
 
-### Passo 2: Dados Cadastrais
+- Na primeira etapa do formulário, preencha os dados do seu E-mail e o Seu Nome
+- Lembre-se de usar um e-mail válido
+- Um código de verificação será enviado para o seu e-mail para terminar de validar o formulário
+- Utilize o código no formulário para validar o E-mail
 
-### Passo 3: Validando
+### Passo 1: Defina a sua Senha
 
-### Passo 4: MFA (Multi Factor Access)
+- Defina uma senha que contenha pelo menos:
+  - 8 caracteres
+  - Ao menos 1 Letra maiúscula pelo menos
+  - Ao menos 1 Letra minúscula pelo menos
+  - Ao menos 1 caracter especial
 
-### Passo 5: MFA (Multi Factor Access)
+### Passo 2: Informação de contato
+
+- Nessa próxima etapa do formulário você deve indicar se a conta é pra uso `Pessoal` ou `Comercial`
+- Informe seus dados para contato como `Nome Completo`, `Número de Telefone` e `País`
+- Logo abaixo coloque seus dados de endereço completo como `Cidade` e `Estado` e `Código Postal`
+
+### Passo 3: Informações de Faturamento
+
+- Coloque os dados de um cartão de crédito válido
+- Preencha com os dados do endereço do dono do cartão
+- Importante lembrar que será feito um teste de cobrança porém o valor será retornado imediatamente, nenhum valor é cobrado somente por criar conta na AWS
+
+### Passo 4: Confirme sua identidade
+
+- Escolha uma opção entre `Receber SMS` ou `Chamada de Voz` para receber um código de validação
+- Após isso, coloque seu celular ativo
+- Ao receber o código no seu celular, basta informar ele no formulário dessa etapa
+
+### Passo 5: Selecione um pacote de suporte
+
+- Na última etapa você pode adquirir um pacote de suporte
+- Caso você esteja apenas estudando AWS, recomendamos o pacote `Suporte Basic` por ser um plano totalmente gratuíto
 
 ## Links interessantes
 
